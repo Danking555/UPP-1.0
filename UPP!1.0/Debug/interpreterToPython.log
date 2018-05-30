@@ -1,0 +1,5 @@
+﻿  interpreter.c
+  Utilities.c
+  Generating Code...
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\interpretertopython\interpretertopython\utilities.c(49): warning C4716: 'isCondition': must return a value
+  interpreterToPython.vcxproj -> C:\Programming-projects+magshimim\Magshimim\Year2(2017)\Mine Projects\interpreterToPython\Debug\interpreterToPython.exe

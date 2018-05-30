@@ -48,21 +48,6 @@ bool isCondition(string line)
 
 }
 
- string test(string str) // d = 45\0
-{
-	string ret = NULL;
-	while (isspace(*str)) str++;
-	ret = str;
-	while (*str != 0)
-	{
-		if (isspace(*str)) { 
-			*str = str[1]; // set current value to next 
-		}
-		else str++;
-	}
-
-	return ret;
-}
 
  string trim(string str)
  {

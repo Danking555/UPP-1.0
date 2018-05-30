@@ -1,5 +1,17 @@
-﻿  interpreter.c
-  Utilities.c
+﻿  Utilities.c
+  Types.c
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\interpretertopython\upp!1.0\types.c(11): warning C4018: '<': signed/unsigned mismatch
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\interpretertopython\upp!1.0\types.c(56): warning C4018: '<': signed/unsigned mismatch
+  MathParser.c
+  Math.c
+  interpreter.c
+  DataPrinter.c
+  DataManager.c
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\interpretertopython\upp!1.0\datamanager.c(68): warning C4018: '<': signed/unsigned mismatch
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\interpretertopython\upp!1.0\datamanager.c(93): warning C4101: 'int_res': unreferenced local variable
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\interpretertopython\upp!1.0\datamanager.c(93): warning C4101: 'res': unreferenced local variable
+  CommandsParser.c
   Generating Code...
-c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\interpretertopython\interpretertopython\utilities.c(49): warning C4716: 'isCondition': must return a value
-  interpreterToPython.vcxproj -> C:\Programming-projects+magshimim\Magshimim\Year2(2017)\Mine Projects\interpreterToPython\Debug\interpreterToPython.exe
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\interpretertopython\upp!1.0\math.c(37): warning C4715: 'pop_int': not all control paths return a value
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\interpretertopython\upp!1.0\utilities.c(49): warning C4716: 'isCondition': must return a value
+  interpreterToPython.vcxproj -> C:\Programming-projects+magshimim\Magshimim\Year2(2017)\Mine Projects\interpreterToPython\UPP!1.0\Debug\interpreterToPython.exe
